@@ -12,4 +12,4 @@ The waiter comes to the table and puts 2 smoking utensils on it. The smoker who 
 
 The multiplication of 2 matrixes succeds concurrently. The submultiplication of every row by a columb is done with a go routine. When done, it waits for the others at a Barrier. 
 
-[Concurrently multiplication of matrixes]: https://github.com/lfcj/Concurrent-Golang/blob/master/multiMatrix.go
+[Concurrently multiplication of matrixes]: https://github.com/lfcj/Concurrent-Golang/blob/master/matrixMultiplicationConcurrent.go
